@@ -9,11 +9,5 @@ $h = opendir('./cat_data/'); //Open the current directory
             
         }
     }
-    
-
-  
-    
-
-
 echo $cnt;
 ?>
